@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\bin\Debug\net8.0\Ventas.exe
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\bin\Debug\net8.0\Ventas.deps.json
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\bin\Debug\net8.0\Ventas.runtimeconfig.json
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\bin\Debug\net8.0\Ventas.dll
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\bin\Debug\net8.0\Ventas.pdb
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.sourcelink.json
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.dll
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\refint\Ventas.dll
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.pdb
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\Ventas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Ventas\obj\Debug\net8.0\ref\Ventas.dll
