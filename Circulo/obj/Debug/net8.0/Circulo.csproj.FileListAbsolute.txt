@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\bin\Debug\net8.0\Circulo.exe
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\bin\Debug\net8.0\Circulo.deps.json
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\bin\Debug\net8.0\Circulo.runtimeconfig.json
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\bin\Debug\net8.0\Circulo.dll
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\bin\Debug\net8.0\Circulo.pdb
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.sourcelink.json
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.dll
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\refint\Circulo.dll
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.pdb
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\Circulo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\obj\Debug\net8.0\ref\Circulo.dll
