@@ -9,13 +9,11 @@ namespace Usuarios_Productos
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private List<Producto> GetProductos()
         {
             string connectionString = @"Server=localhost\MSSQLSERVERC#;Database=SistemaGestion_c9;Trusted_Connection=True;";
             string queryProductos = "SELECT Id, Descripciones, Costo, PrecioVenta, Stock from Producto";
-            string queryUsuarios = "SELECT Id, Nombre, Apellido, NombreUsuario, Mail from Usuario";
             List<Producto> productos = new List<Producto>();
-            List<Usuario> usuarios = new List<Usuario>();
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
@@ -39,6 +37,20 @@ namespace Usuarios_Productos
                         }
                     }
                 }
+                connection.Close();
+            }
+            return productos;
+        }
+
+        private List<Usuario> GetUsuarios()
+        {
+            string connectionString = @"Server=localhost\MSSQLSERVERC#;Database=SistemaGestion_c9;Trusted_Connection=True;";
+            string queryUsuarios = "SELECT Id, Nombre, Apellido, NombreUsuario, Mail from Usuario";
+            List<Usuario> usuarios = new List<Usuario>();
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+
                 using (SqlCommand command = new SqlCommand(queryUsuarios, connection))
                 {
                     using (SqlDataReader reader = command.ExecuteReader())
@@ -57,12 +69,17 @@ namespace Usuarios_Productos
                             }
                         }
                     }
-                    connection.Close();
                 }
+                connection.Close();
             }
-            dgvListaProductos.DataSource = productos;
+            return usuarios;
+        } 
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            dgvListaProductos.DataSource = GetProductos();
             dgvListaProductos.AutoGenerateColumns = true;
-            dgvListaUsuarios.DataSource = usuarios;
+            dgvListaUsuarios.DataSource = GetUsuarios();
             dgvListaUsuarios.AutoGenerateColumns = true;
         }
     }
