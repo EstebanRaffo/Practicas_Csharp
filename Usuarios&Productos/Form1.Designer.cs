@@ -45,7 +45,7 @@
             label1.Size = new Size(148, 37);
             label1.TabIndex = 0;
             label1.Text = "Productos";
-            label1.Click += label1_Click;
+            // label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -55,15 +55,15 @@
             label2.Name = "label2";
             label2.Size = new Size(128, 37);
             label2.TabIndex = 1;
-            label2.Text = "Usuarios";
+            label2.Text = "Usuario";
             // 
             // dgvListaUsuarios
             // 
             dgvListaUsuarios.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvListaUsuarios.Location = new Point(31, 114);
+            dgvListaUsuarios.Location = new Point(12, 114);
             dgvListaUsuarios.Name = "dgvListaUsuarios";
             dgvListaUsuarios.RowTemplate.Height = 25;
-            dgvListaUsuarios.Size = new Size(344, 196);
+            dgvListaUsuarios.Size = new Size(363, 196);
             dgvListaUsuarios.TabIndex = 2;
             // 
             // dgvListaProductos
@@ -72,7 +72,7 @@
             dgvListaProductos.Location = new Point(406, 114);
             dgvListaProductos.Name = "dgvListaProductos";
             dgvListaProductos.RowTemplate.Height = 25;
-            dgvListaProductos.Size = new Size(368, 196);
+            dgvListaProductos.Size = new Size(382, 196);
             dgvListaProductos.TabIndex = 3;
             // 
             // Form1
@@ -86,6 +86,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dgvListaUsuarios).EndInit();
             ((System.ComponentModel.ISupportInitialize)dgvListaProductos).EndInit();
             ResumeLayout(false);

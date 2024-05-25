@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Ventas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E98ED7C-36A4-4AD4-8FF2-E5065FDD5478}|..\\Usuarios\u0026Productos\\Usuarios\u0026Productos.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicas_csharp\\usuarios\u0026productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E98ED7C-36A4-4AD4-8FF2-E5065FDD5478}|..\\Usuarios\u0026Productos\\Usuarios\u0026Productos.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicas_csharp\\usuarios\u0026productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98ED7C-36A4-4AD4-8FF2-E5065FDD5478}|..\\Usuarios\u0026Productos\\Usuarios\u0026Productos.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicas_csharp\\usuarios\u0026productos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98ED7C-36A4-4AD4-8FF2-E5065FDD5478}|..\\Usuarios\u0026Productos\\Usuarios\u0026Productos.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicas_csharp\\usuarios\u0026productos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,14 +42,53 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Usuarios\u0026Productos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Usuario.cs",
+              "RelativeToolTip": "..\\Usuarios\u0026Productos\\Usuario.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:41:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\Usuarios\u0026Productos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Producto.cs",
+              "RelativeToolTip": "..\\Usuarios\u0026Productos\\Producto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:40:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Usuarios\u0026Productos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Form1.cs",
+              "RelativeToolTip": "..\\Usuarios\u0026Productos\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:59:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Usuarios\u0026Productos\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios\u0026Productos\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\Usuarios\u0026Productos\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T23:30:42.041Z",
+              "WhenOpened": "2024-05-25T18:40:17.156Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
