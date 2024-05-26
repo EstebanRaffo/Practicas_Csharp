@@ -73,7 +73,7 @@ namespace Usuarios_Productos
                 connection.Close();
             }
             return usuarios;
-        } 
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -81,6 +81,11 @@ namespace Usuarios_Productos
             dgvListaProductos.AutoGenerateColumns = true;
             dgvListaUsuarios.DataSource = GetUsuarios();
             dgvListaUsuarios.AutoGenerateColumns = true;
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

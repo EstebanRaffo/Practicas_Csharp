@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpzBGdurCYg=",
+  "dgSpecHash": "vFZxzUdTH7g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios&Productos\\Usuarios&Productos.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Usuarios&Productos\\ConsultaProductos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

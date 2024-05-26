@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Circulo\\Circulo.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Circulo\\Circulo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Circulo\\Circulo.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Circulo\\Circulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Circulo\\Circulo.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Circulo\\Circulo.csproj",
         "projectName": "Circulo",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Circulo\\Circulo.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Circulo\\Circulo.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Circulo\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Circulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

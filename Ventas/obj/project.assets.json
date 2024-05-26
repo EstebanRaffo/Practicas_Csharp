@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Ventas\\Ventas.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Ventas\\Ventas.csproj",
       "projectName": "Ventas",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Ventas\\Ventas.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Ventas\\Ventas.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Ventas\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Ventas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

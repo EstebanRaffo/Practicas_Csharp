@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Circulo
-build_property.ProjectDir = C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\Practicas_Csharp\Circulo\
+build_property.ProjectDir = C:\Users\Usuario\Documents\Coderhouse\C#\Ejercicios\PracticasCS\Circulo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios&Productos\\Usuarios&Productos.csproj",
-      "projectName": "Usuarios&Productos",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios&Productos\\Usuarios&Productos.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Usuarios&Productos\\ConsultaProductos.csproj",
+      "projectName": "ConsultaProductos",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Usuarios&Productos\\ConsultaProductos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\Practicas_Csharp\\Usuarios&Productos\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Usuarios&Productos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

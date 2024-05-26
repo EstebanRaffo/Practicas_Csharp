@@ -45,7 +45,6 @@
             label1.Size = new Size(148, 37);
             label1.TabIndex = 0;
             label1.Text = "Productos";
-            // label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -55,7 +54,8 @@
             label2.Name = "label2";
             label2.Size = new Size(128, 37);
             label2.TabIndex = 1;
-            label2.Text = "Usuario";
+            label2.Text = "Usuarios";
+            label2.Click += label2_Click;
             // 
             // dgvListaUsuarios
             // 
