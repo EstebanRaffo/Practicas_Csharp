@@ -51,7 +51,7 @@
             // buttonAgregar
             // 
             buttonAgregar.BackColor = Color.Lime;
-            buttonAgregar.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
+            buttonAgregar.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
             buttonAgregar.Location = new Point(555, 12);
             buttonAgregar.Name = "buttonAgregar";
             buttonAgregar.Size = new Size(99, 39);
@@ -62,11 +62,11 @@
             // buttonActualizar
             // 
             buttonActualizar.BackColor = Color.DodgerBlue;
-            buttonActualizar.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
+            buttonActualizar.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
             buttonActualizar.ForeColor = SystemColors.ActiveCaptionText;
             buttonActualizar.Location = new Point(662, 12);
             buttonActualizar.Name = "buttonActualizar";
-            buttonActualizar.Size = new Size(109, 39);
+            buttonActualizar.Size = new Size(126, 39);
             buttonActualizar.TabIndex = 2;
             buttonActualizar.Text = "Actualizar";
             buttonActualizar.UseVisualStyleBackColor = false;
