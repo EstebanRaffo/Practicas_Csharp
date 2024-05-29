@@ -5,13 +5,14 @@ namespace ProductosABM
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        public static FormGestion formGestion;
         [STAThread]
         static void Main()
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormGestion());
+            Application.Run(formGestion = new FormGestion());
         }
     }
 }
