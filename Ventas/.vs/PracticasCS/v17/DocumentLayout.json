@@ -3,19 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\Ventas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\formabm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\database\\gestorbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\formabm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77705F0E-4065-4D2F-A174-022DBDE967BA}|..\\ProductosABM\\ProductosABM.csproj|c:\\users\\usuario\\documents\\coderhouse\\c#\\ejercicios\\practicascs\\productosabm\\formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,33 +48,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "..\\ProductosABM\\Models\\Producto.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\Models\\Producto.cs",
               "RelativeToolTip": "..\\ProductosABM\\Models\\Producto.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAsAAAAkAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T22:28:39.618Z",
+              "WhenOpened": "2024-05-30T23:31:40.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GestorBaseDeDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
-              "RelativeDocumentMoniker": "..\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
-              "RelativeToolTip": "..\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAwwF8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T22:28:05.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FormGestion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\FormGestion.cs",
               "RelativeDocumentMoniker": "..\\ProductosABM\\FormGestion.cs",
@@ -83,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FormGestion.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\FormGestion.cs",
               "RelativeDocumentMoniker": "..\\ProductosABM\\FormGestion.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\FormGestion.cs",
               "RelativeToolTip": "..\\ProductosABM\\FormGestion.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA9wCIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T22:54:52.958Z",
               "EditorCaption": ""
@@ -103,8 +93,34 @@
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\FormABM.cs [Dise\u00F1o]",
               "RelativeToolTip": "..\\ProductosABM\\FormABM.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T23:03:52.303Z",
+              "WhenOpened": "2024-05-30T23:34:54.123Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormABM.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\FormABM.cs",
+              "RelativeDocumentMoniker": "..\\ProductosABM\\FormABM.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\FormABM.cs",
+              "RelativeToolTip": "..\\ProductosABM\\FormABM.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:53:58.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "..\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Coderhouse\\C#\\Ejercicios\\PracticasCS\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
+              "RelativeToolTip": "..\\ProductosABM\\Database\\GestorBaseDeDatos.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAF8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:28:05.769Z",
+              "EditorCaption": ""
             }
           ]
         }

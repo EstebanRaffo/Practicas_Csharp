@@ -36,9 +36,11 @@
             textBox2 = new TextBox();
             textBox3 = new TextBox();
             textBox4 = new TextBox();
-            buttonCancelar = new Button();
+            buttonVolver = new Button();
             buttonEliminar = new Button();
             buttonGuardar = new Button();
+            textId = new TextBox();
+            label5 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -46,7 +48,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(73, 42);
+            label1.Location = new Point(73, 81);
             label1.Name = "label1";
             label1.Size = new Size(100, 21);
             label1.TabIndex = 0;
@@ -57,7 +59,7 @@
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label2.ForeColor = Color.White;
-            label2.Location = new Point(73, 120);
+            label2.Location = new Point(73, 159);
             label2.Name = "label2";
             label2.Size = new Size(53, 21);
             label2.TabIndex = 1;
@@ -69,7 +71,7 @@
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(73, 198);
+            label3.Location = new Point(73, 237);
             label3.Name = "label3";
             label3.Size = new Size(58, 21);
             label3.TabIndex = 2;
@@ -80,7 +82,7 @@
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label4.ForeColor = Color.White;
-            label4.Location = new Point(73, 275);
+            label4.Location = new Point(73, 314);
             label4.Name = "label4";
             label4.Size = new Size(52, 21);
             label4.TabIndex = 3;
@@ -88,65 +90,84 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(76, 72);
+            textBox1.Location = new Point(76, 111);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(386, 23);
             textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(76, 144);
+            textBox2.Location = new Point(76, 183);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(386, 23);
             textBox2.TabIndex = 5;
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(76, 222);
+            textBox3.Location = new Point(76, 261);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(386, 23);
             textBox3.TabIndex = 6;
             // 
             // textBox4
             // 
-            textBox4.Location = new Point(76, 299);
+            textBox4.Location = new Point(76, 338);
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(386, 23);
             textBox4.TabIndex = 7;
             // 
-            // buttonCancelar
+            // buttonVolver
             // 
-            buttonCancelar.BackColor = Color.Red;
-            buttonCancelar.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            buttonCancelar.Location = new Point(76, 361);
-            buttonCancelar.Name = "buttonCancelar";
-            buttonCancelar.Size = new Size(97, 30);
-            buttonCancelar.TabIndex = 8;
-            buttonCancelar.Text = "Cancelar";
-            buttonCancelar.UseVisualStyleBackColor = false;
+            buttonVolver.BackColor = Color.Cyan;
+            buttonVolver.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            buttonVolver.Location = new Point(76, 403);
+            buttonVolver.Name = "buttonVolver";
+            buttonVolver.Size = new Size(97, 30);
+            buttonVolver.TabIndex = 8;
+            buttonVolver.Text = "Volver";
+            buttonVolver.UseVisualStyleBackColor = false;
             // 
             // buttonEliminar
             // 
-            buttonEliminar.BackColor = Color.DeepSkyBlue;
+            buttonEliminar.BackColor = Color.OrangeRed;
             buttonEliminar.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            buttonEliminar.Location = new Point(214, 361);
+            buttonEliminar.Location = new Point(214, 403);
             buttonEliminar.Name = "buttonEliminar";
             buttonEliminar.Size = new Size(83, 30);
             buttonEliminar.TabIndex = 9;
             buttonEliminar.Text = "Eliminar";
             buttonEliminar.UseVisualStyleBackColor = false;
+            buttonEliminar.Click += buttonEliminar_Click;
             // 
             // buttonGuardar
             // 
             buttonGuardar.BackColor = Color.LimeGreen;
             buttonGuardar.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            buttonGuardar.Location = new Point(343, 361);
+            buttonGuardar.Location = new Point(343, 403);
             buttonGuardar.Name = "buttonGuardar";
             buttonGuardar.Size = new Size(79, 30);
             buttonGuardar.TabIndex = 10;
             buttonGuardar.Text = "Guardar";
             buttonGuardar.UseVisualStyleBackColor = false;
-            buttonGuardar.Click += button1_Click;
+            buttonGuardar.Click += buttonGuardar_Click;
+            // 
+            // textId
+            // 
+            textId.Location = new Point(73, 43);
+            textId.Name = "textId";
+            textId.Size = new Size(386, 23);
+            textId.TabIndex = 12;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label5.ForeColor = Color.White;
+            label5.Location = new Point(70, 13);
+            label5.Name = "label5";
+            label5.Size = new Size(25, 21);
+            label5.TabIndex = 11;
+            label5.Text = "Id";
             // 
             // FormABM
             // 
@@ -154,9 +175,11 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
             ClientSize = new Size(800, 450);
+            Controls.Add(textId);
+            Controls.Add(label5);
             Controls.Add(buttonGuardar);
             Controls.Add(buttonEliminar);
-            Controls.Add(buttonCancelar);
+            Controls.Add(buttonVolver);
             Controls.Add(textBox4);
             Controls.Add(textBox3);
             Controls.Add(textBox2);
@@ -167,6 +190,7 @@
             Controls.Add(label1);
             Name = "FormABM";
             Text = "Administrar Producto";
+            Load += FormABM_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -181,8 +205,10 @@
         private TextBox textBox2;
         private TextBox textBox3;
         private TextBox textBox4;
-        private Button buttonCancelar;
+        private Button buttonVolver;
         private Button buttonEliminar;
         private Button buttonGuardar;
+        private TextBox textId;
+        private Label label5;
     }
 }
