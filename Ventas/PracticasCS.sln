@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circulo", "..\Circulo\Circu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaProductos", "..\Usuarios&Productos\ConsultaProductos.csproj", "{9E98ED7C-36A4-4AD4-8FF2-E5065FDD5478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductosABM", "..\ProductosABM\ProductosABM.csproj", "{77705F0E-4065-4D2F-A174-022DBDE967BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductosABM", "..\ProductosABM\ProductosABM.csproj", "{77705F0E-4065-4D2F-A174-022DBDE967BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductosEFC", "..\ProductosEFC\ProductosEFC.csproj", "{C21F0C8B-71E3-45A5-941B-7EDBF2838059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{77705F0E-4065-4D2F-A174-022DBDE967BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77705F0E-4065-4D2F-A174-022DBDE967BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77705F0E-4065-4D2F-A174-022DBDE967BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21F0C8B-71E3-45A5-941B-7EDBF2838059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21F0C8B-71E3-45A5-941B-7EDBF2838059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21F0C8B-71E3-45A5-941B-7EDBF2838059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21F0C8B-71E3-45A5-941B-7EDBF2838059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

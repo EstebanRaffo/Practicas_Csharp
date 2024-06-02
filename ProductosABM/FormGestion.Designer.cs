@@ -46,7 +46,7 @@
             label1.Size = new Size(148, 37);
             label1.TabIndex = 0;
             label1.Text = "Productos";
-            label1.Click += label1_Click;
+            // label1.Click += label1_Click;
             // 
             // buttonAgregar
             // 
@@ -92,7 +92,7 @@
             Controls.Add(label1);
             Name = "FormGestion";
             Text = "Gestión de Productos";
-            Load += Form1_Load;
+            Load += FormGestion_Load;
             ((System.ComponentModel.ISupportInitialize)dgvProductos).EndInit();
             ResumeLayout(false);
             PerformLayout();

@@ -10,19 +10,14 @@ namespace ProductosABM
             InitializeComponent();
         }
 
-        private void Label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ButtonAgregar_Click(object sender, EventArgs e)
+        private void buttonAgregar_Click(object sender, EventArgs e)
         {
             FormABM formAbm = new FormABM();
             Program.formGestion.Hide();
             formAbm.Show();
         }
 
-        private void ButtonActualizar_Click(object sender, EventArgs e)
+        private void buttonActualizar_Click(object sender, EventArgs e)
         {
             dgvProductos.DataSource = null;
             dgvProductos.Refresh();
@@ -31,7 +26,7 @@ namespace ProductosABM
             dgvProductos.DataSource = gestor.GetProducts();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void FormGestion_Load(object sender, EventArgs e)
         {
             idProducto = 0;
             GestorBaseDeDatos gestor = new GestorBaseDeDatos();
@@ -39,7 +34,7 @@ namespace ProductosABM
             dgvProductos.DataSource = gestor.GetProducts();
         }
 
-        private void DgvProductos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void dgvProductos_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex == 0)
             {

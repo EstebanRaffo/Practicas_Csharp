@@ -19,11 +19,6 @@ namespace ProductosABM
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         public void Limpiar()
         {
             textBox1.Text = "";

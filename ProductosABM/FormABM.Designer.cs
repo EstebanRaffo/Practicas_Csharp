@@ -64,7 +64,7 @@
             label2.Size = new Size(53, 21);
             label2.TabIndex = 1;
             label2.Text = "Costo";
-            label2.Click += label2_Click;
+            // label2.Click += label2_Click;
             // 
             // label3
             // 

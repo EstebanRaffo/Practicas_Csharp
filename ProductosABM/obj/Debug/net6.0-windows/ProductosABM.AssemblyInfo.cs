@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductosABM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14e36ae8b2275004323740454efeab591e5038ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85183738b011c07ae75c1b08a743c25c24c2855")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductosABM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductosABM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
